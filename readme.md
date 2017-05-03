@@ -8,9 +8,9 @@ Danganronpa is a series that tells the story of a class of students trapped insi
 This web app was made to be the best source for all information on Danganronpa.  
 
 #### User Stories
-> As a user, I want a fully functional, finished web app, so that I can have a good user experince
-> As a user, I want the web app to be styled and designed well, so that it will be visually appealing and keep my attention
-> As a user, I want the web app to be secured, so that I won't worry about my personal information being leaked 
+- As a user, I want a fully functional, finished web app, so that I can have a good user experince
+- As a user, I want the web app to be styled and designed well, so that it will be visually appealing and keep my attention
+- As a user, I want the web app to be secured, so that I won't worry about my personal information being leaked 
 
 #### Pseudocode 
 - Design app that is visually appealing and has good interface for the user

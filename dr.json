@@ -37,9 +37,9 @@
 }, {
   "id": 5,
   "name": "Monokuma モノクマ",
-  "birthday": "N/A",
+  "birthday": "Unknown",
   "image": "http://i.imgur.com/WSMQtU0.png",
-  "talent": "N/A",
+  "talent": "Unknown",
   "quote": "As long as there's despair in people's hearts, Monokuma will always come back!",
   "likes": "Killing Games",
   "dislikes": "Usami"
@@ -154,9 +154,9 @@
 }, {
   "id": 18,
   "name": "Usami ウサミ",
-  "birthday": "N/A",
+  "birthday": "Unknown",
   "image": "http://i.imgur.com/qY5InlK.png",
-  "talent": "N/A",
+  "talent": "Unknown",
   "quote": "I'm Usami! Magical Miracle Girl ★ Usami! I'm an itty bitty girl who's sweet like milk!",
   "likes": "Happiness",
   "dislikes": "Monokuma"
@@ -189,87 +189,87 @@
   "dislikes": "Alarm Clocks"
 }, {
   "id": 22,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "name": "Fuyuhiko Kuzuryu 九頭龍 冬彦",
+  "birthday": "August 16th",
+  "image": "http://i.imgur.com/tqEdKXO.png",
+  "talent": "Ultimate Yakuza",
+  "quote": "I never needed... a sword...or a shield... I never needed... a tool... S-So... You didn't...need to become a tool... You just...you just needed to be yourself...",
+  "likes": "Karinto and Fried Dough Cookies",
+  "dislikes": "Milk"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 23,
+  "name": "Ibuki Mioda 澪田 唯吹",
+  "birthday": "November 27th",
+  "image": "http://i.imgur.com/qjmiaYs.png",
+  "talent": "Ultimate Musician",
+  "quote": "I believe finding yourself means accepting that you're someone who is constantly changing",
+  "likes": "Walking, Napping, Gaming",
+  "dislikes": "Boredom"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 24,
+  "name": "Sonia Nevermind ソニア・ネヴァーマインド",
+  "birthday": "October 13th",
+  "image": "http://i.imgur.com/TfQlzLF.png",
+  "talent": "Ultimate Princess",
+  "quote": "You wear a white shirt just like the legend says, and your hair looks like an antenna! And your face...is completely unremarkable!",
+  "likes": "Occult and Japanese Culture",
+  "dislikes": "Sour Plums"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 25,
+  "name": "Gundham Tanaka 田中 眼蛇夢",
+  "birthday": "December 14th",
+  "image": "http://i.imgur.com/o1y2vdY.png",
+  "talent": "Ultimate Breeder",
+  "quote": "There are no second chances in life... We cannot return to what has already transpired...",
+  "likes": "Four Dark Devas of Destruction",
+  "dislikes": "Earthly Life"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 26,
+  "name": "Hiyoko Saionji 西園寺 日寄子",
+  "birthday": "March 9th",
+  "image": "http://i.imgur.com/9eou4ay.png",
+  "talent": "Ultimate Traditional Dancer",
+  "quote": "Hey, isn't it stressful when someone you're not interested in at all tries to talk to you?",
+  "likes": "Sour Food and Stuff",
+  "dislikes": "Lectures"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 27,
+  "name": "Akane Owari 終里 赤音",
+  "birthday": "July 15th",
+  "image": "http://i.imgur.com/DcVGu3s.png",
+  "talent": "Ultimate Gymnast",
+  "quote": "When things don't make sense, the only thing I can do is stuff my face!",
+  "likes": "Fighting and Meat",
+  "dislikes": "Working Hard"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 28,
+  "name": "Unknown 詐欺師",
+  "birthday": "Unknown",
+  "image": "http://i.imgur.com/5ClbcdN.png",
+  "talent": "Ultimate Imposter",
+  "quote": "Throw away your past self... It's meaningless",
+  "likes": "Eating",
+  "dislikes": "Being Himself"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 29,
+  "name": "Nekomaru Nidai 大 猫丸",
+  "birthday": "February 22nd",
+  "image": "http://i.imgur.com/1rYQd5U.png",
+  "talent": "Ultimate Team Manager",
+  "quote": "Countless records in this world would not exist without managers!",
+  "likes": "Freshly Washed Towels",
+  "dislikes": "Lazy People"
 }, {
-  "id": ,
-  "name": "",
-  "birthday": "",
-  "image": "",
-  "talent": "",
-  "quote": "",
-  "likes": "",
-  "dislikes": ""
+  "id": 30,
+  "name": "Kazuichi Soda 左右田 和一",
+  "birthday": "June 29th",
+  "image": "http://i.imgur.com/g91lX3b.png",
+  "talent": "Ultimate Mechanic",
+  "quote": "You'd be surprised how much changes when you change your appearance.",
+  "likes": "Cola",
+  "dislikes": "Anything That Is Sugar Free"
 }, {
-  "id": ,
+  "id": 31,
   "name": "",
   "birthday": "",
   "image": "",

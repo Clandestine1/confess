@@ -1,0 +1,345 @@
+[{
+  "id": 1,
+  "name": "Kyoko Kirigiri 霧切 響子",
+  "birthday": "October 6th",
+  "image": "http://i.imgur.com/FN7P6wq.png",
+  "talent": "Ultimate Detective",
+  "quote": "Fear is proof that your imagination is functioning. Frankly, I feel bad for anyone who can't feel fear. Without imagination, you can never deduce which action to take next",
+  "likes": "Her hair braids",
+  "dislikes": "Goya and Coriander"
+}, {
+  "id": 2,
+  "name": "Byakuya Togami 十神 白夜",
+  "birthday": "May 5th",
+  "image": "http://i.imgur.com/AoBcZU1.png",
+  "talent": "Ultimate Affluent Progeny",
+  "quote": "Hello there. Listen... who are you again? I apologize for my poor memory. But it’s just so hard to remember things I don't care about.",
+  "likes": "Coffee and French Cuisine",
+  "dislikes": "Commoners and Instant Food"
+}, {
+  "id": 3,
+  "name": "Chihiro Fujisaki 不二咲 千尋",
+  "birthday": "March 14th",
+  "image": "http://i.imgur.com/QiFmwuy.png",
+  "talent": "Ultimate Programmer",
+  "quote": "I'm completely useless without a computer in front of me...",
+  "likes": "Computers and Flowers",
+  "dislikes": "Masculinity"
+}, {
+  "id": 4,
+  "name": "Celestia Ludenberg ルーデンベルク",
+  "birthday": "November 23rd",
+  "image": "http://i.imgur.com/3JUkXNw.png",
+  "talent": "Ultimate Gambler",
+  "quote": "I'm rather proud of my ability to tell lies. I can trick not only others, but even my own heart.",
+  "likes": "Winning and Exotic Things",
+  "dislikes": "Fire"
+}, {
+  "id": 5,
+  "name": "Monokuma モノクマ",
+  "birthday": "N/A",
+  "image": "http://i.imgur.com/WSMQtU0.png",
+  "talent": "N/A",
+  "quote": "As long as there's despair in people's hearts, Monokuma will always come back!",
+  "likes": "Killing Games",
+  "dislikes": "Usami"
+}, {
+  "id": 6,
+  "name": "Makoto Naegi 苗木 誠",
+  "birthday": "ebruary 5th",
+  "image": "http://i.imgur.com/unsPH8K.png",
+  "talent": "Ultimate Lucky Student",
+  "quote": "After all, my only redeeming quality is my optimism.",
+  "likes": "Curry and Trendy Things",
+  "dislikes": "Dried Tofu and Dried Pickled Horse Mackerel"
+}, {
+  "id": 7,
+  "name": "Aoi Asahina 朝日奈 葵",
+  "birthday": "April 24th",
+  "image": "http://i.imgur.com/k4FIaA5.png",
+  "talent": "Ultimate Swimming Pro ",
+  "quote": "People talk behind my back sometimes-say all my energy goes to my legs and none of it to my head.",
+  "likes": "Donuts",
+  "dislikes": "Calculating"
+}, {
+  "id": 8,
+  "name": "Yasuhiro Hagakure 葉隠 康比呂",
+  "birthday": "July 25th",
+  "image": "http://i.imgur.com/ipVm5Qw.png",
+  "talent": "Ultimate Clairvoyant",
+  "quote": "The guardian spirit with a perm head chasing a Bigfoot who was cursed by sky fish. That’s your very own guardian spirit!",
+  "likes": "Useless and Expensive Things",
+  "dislikes": "Debt"
+}, {
+  "id": 9,
+  "name": "Sakura Ogami 大神 さくら",
+  "birthday": "September 13th",
+  "image": "http://i.imgur.com/JfKLOc5.png",
+  "talent": "Ultimate Martial Artist",
+  "quote": "I don't want to just be the best in competitions. I want to be the strongest human on Earth",
+  "likes": "Training",
+  "dislikes": "Femininity"
+}, {
+  "id": 10,
+  "name": "Hifumi Yamada 山田 一二三",
+  "birthday": "December 31st",
+  "image": "http://i.imgur.com/TGqEWbm.png",
+  "talent": "Ultimate Fanfic Creator",
+  "quote": "Listen to me! Outward appearances are meaningless! What you see before your eyes is nothing but the skin that wraps my true self! My meaning and worth can be judged only by the contents of my work!",
+  "likes": "Anime and Manga",
+  "dislikes": "Working Out"
+}, {
+  "id": 11,
+  "name": "Junko Enoshima 江ノ島 盾子",
+  "birthday": "December 24th",
+  "image": "http://i.imgur.com/UDtSoMq.png",
+  "talent": "Ultimate Fashionista",
+  "quote": "The heart-racing excitement of messy despair has a taste like you've never known!",
+  "likes": "Despair",
+  "dislikes": "Her Sister"
+}, {
+  "id": 12,
+  "name": "Kiyotaka Ishimaru 石丸 清多夏",
+  "birthday": "August 31st",
+  "image": "http://i.imgur.com/rIN9Lyz.png",
+  "talent": "Ultimate Moral Compass",
+  "quote": "Also, I have ten sets of my uniform, so I always have a clean one. There's nothing strange about that.",
+  "likes": "Order and Rules",
+  "dislikes": "Chaos"
+}, {
+  "id": 13,
+  "name": "Leon Kuwata 桑田 怜恩",
+  "birthday": "January 3rd",
+  "image": "http://i.imgur.com/hMoHVt4.png",
+  "talent": "Ultimate Baseball Star",
+  "quote": "My plan is to conquer the world with punk! Cause I mean... when it comes to punk, it doesn't really matter if you can actually play or not",
+  "likes": "Being Cool",
+  "dislikes": "Baseball"
+}, {
+  "id": 14,
+  "name": "Mondo Owada 大和田 紋土",
+  "birthday": "June 9th",
+  "image": "http://i.imgur.com/6FkxgpM.png",
+  "talent": "Ultimate Biker Gang Leader ",
+  "quote": "A real man rides Kawasaki, okay? That's what I ride. You oughta see it, man. The v-twin’s got that monster power, it's like you're dancin'. Course, it ain't for just anyone. You gotta have the skill to handle it.",
+  "likes": "Hair Gel",
+  "dislikes": "Police"
+}, {
+  "id": 15,
+  "name": "Sayaka Maizono 舞園 さやか",
+  "birthday": "July 7th",
+  "image": "http://i.imgur.com/BQsAti5.png",
+  "talent": "Ultimate Pop Sensation",
+  "quote": "I can read minds... Relax, it's a joke. I just have good intuition. Cause I'm psychic! ...Kidding!",
+  "likes": "Fame",
+  "dislikes": "Being Alone"
+}, {
+  "id": 16,
+  "name": "Toko Fukawa 腐川 冬子 ",
+  "birthday": "March 3rd",
+  "image": "http://i.imgur.com/cZTOwT7.png",
+  "talent": "Ultimate Writing Prodigy",
+  "quote": "Nng... I'm blind! Your s-straightforward nature blinded me!",
+  "likes": "Byakuya Togami and Belles-lettres novels",
+  "dislikes": "Light Novels and Manga"
+}, {
+  "id": 17,
+  "name": "Mukuro Ikusaba 戦刃 むくろ",
+  "birthday": "December 24th",
+  "image": "http://i.imgur.com/63Bow5B.png",
+  "talent": "Ultimate Soldier",
+  "quote": "  Junko, you're all I have. So don't worry, little sis. I'm always looking at you, so... I swear I'm going to make you despair. I swear I'll make Makoto and everyone else happy. So when you find joy in that despair, I'll trust in Makoto's hope and bring my eyes back to you",
+  "likes": "Her Sister and Army Knives",
+  "dislikes": "Make-up"
+}, {
+  "id": 18,
+  "name": "Usami ウサミ",
+  "birthday": "N/A",
+  "image": "http://i.imgur.com/qY5InlK.png",
+  "talent": "N/A",
+  "quote": "I'm Usami! Magical Miracle Girl ★ Usami! I'm an itty bitty girl who's sweet like milk!",
+  "likes": "Happiness",
+  "dislikes": "Monokuma"
+}, {
+  "id": 19,
+  "name": "Hajime Hinata 日向 創",
+  "birthday": "January 1st",
+  "image": "http://i.imgur.com/ubp9072.png",
+  "talent": "Ultimate Hope",
+  "quote": "Nagito Komaeda... You're definitely someone I shouldn't underestimate.",
+  "likes": "Kusamochi",
+  "dislikes": "Sakuramochi"
+}, {
+  "id": 20,
+  "name": "Nagito Komaeda 狛枝 凪斗",
+  "birthday": "April 28th",
+  "image": "http://i.imgur.com/t8j3kDx.png",
+  "talent": "Ultimate Lucky Student",
+  "quote": "Despair is... like what I am compared to all of you, something minuscule, trivial and worthless!",
+  "likes": "Beautiful things and People",
+  "dislikes": "Noisy Places and Ugly People"
+}, {
+  "id": 21,
+  "name": "Chiaki Nanami 七海 千秋",
+  "birthday": "March 14th",
+  "image": "http://i.imgur.com/nqOHMBw.png",
+  "talent": "Ultimate Gamer",
+  "quote": "It doesn't make a difference whether or not you have talent. I mean, that isn't the end goal. You have greater freedom than we do. All I have are games, but you can go anywhere and become anything.",
+  "likes": "Games",
+  "dislikes": "Alarm Clocks"
+}, {
+  "id": 22,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+}, {
+  "id": ,
+  "name": "",
+  "birthday": "",
+  "image": "",
+  "talent": "",
+  "quote": "",
+  "likes": "",
+  "dislikes": ""
+},
+
+]
